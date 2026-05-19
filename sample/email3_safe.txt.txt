@@ -1,0 +1,17 @@
+Notice: Microsoft Account Protection Settings Modified
+
+
+Hello User,
+
+We’re writing to inform you that changes were recently made to your Microsoft account protection preferences on May 18, 2026.
+
+If you authorized these updates, you do not need to take any additional action.
+
+To review recent sign-in activity and security settings, visit the link below:
+
+https://account.microsoft.com/security
+
+If you do not recognize this activity, we recommend securing your account immediately.
+
+Sincerely,
+Microsoft Account Security Team

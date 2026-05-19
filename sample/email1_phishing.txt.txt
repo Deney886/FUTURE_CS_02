@@ -1,0 +1,15 @@
+Urgent: Account Access Verification Required
+Dear User,
+
+We noticed multiple failed login attempts on your online banking account from an unknown device.
+
+For your protection, access to your account has been limited temporarily.
+
+Please confirm your identity and restore account access by visiting the secure verification page below:
+
+http://account-secure-check[.]net
+
+If verification is not completed within 12 hours, your online banking services may be disabled.
+
+Thank you,
+Customer Protection Department
